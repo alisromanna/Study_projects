@@ -1,5 +1,5 @@
 # Маркетинговая аналитика и анализ убытков развлекательного приложения
-[ipynb](https://github.com/AlisaLisaAlisa/Portfolio/blob/03d21ad0d178f3f8be777c04494ab12bf7c988b7/Food%20startup%20fonts/Food_startup_fonts.ipynb)
+[ipynb](https://github.com/AlisaLisaAlisa/Portfolio/blob/b74f3aa2958e4bb5b5517280b2d34aecee68127a/Marketing%20and%20loss%20analysis/Marketing_and_loss_analysis.ipynb)
 ## Описание проекта
 Цель проекта: найти причины убыточности развлекательного приложения, несмотря на большие расходы на рекламу. Для этого исследовать 
 пользователей приложения в разбивке по странам, устройствам, каналам привлечения. Исследовать маркетинговые расходы и рассчитать 
